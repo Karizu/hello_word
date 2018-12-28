@@ -1,0 +1,62 @@
+{
+  "status": "true",
+  "message": "Data fetched successfully!",
+  "data": [
+    {
+      "id": "1",
+      "name": "Atom Beautify",
+      "country": "Atom Beautify could not determine a supported beautifier to handle this file with grammar Null Grammar and extension undefined",
+      "city": "20 Des 20:04",
+      "imgURL": "https://github.com/Karizu/hello_word/blob/091d397adaf469a12cf7297c30114844da023aef/1.png"
+    },
+    {
+      "id": "2",
+      "name": "Request Support",
+      "country": "If you would like to request support for this file and its language, please create an issue for Atom Beautify at https://github.com/Glavin001/atom-beautify/issues",
+      "city": "21 Des 19:20",
+      "imgURL": "https://github.com/Karizu/hello_word/blob/091d397adaf469a12cf7297c30114844da023aef/2.png"
+    },
+    {
+      "id": "3",
+      "name": "Novak Djokovic",
+      "country": "Serbia",
+      "city": "Monaco",
+      "imgURL": "https://demonuts.com/Demonuts/SampleImages/djoko.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Andy Murray",
+      "country": "United Kingdom",
+      "city": "London",
+      "imgURL": "https://demonuts.com/Demonuts/SampleImages/murray.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Maria Sharapova",
+      "country": "Russia",
+      "city": "Moscow",
+      "imgURL": "https://demonuts.com/Demonuts/SampleImages/shara.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Caroline Wozniacki",
+      "country": "Denmark",
+      "city": "Odense",
+      "imgURL": "https://demonuts.com/Demonuts/SampleImages/woz.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Eugenie Bouchard",
+      "country": "Canada",
+      "city": " Montreal",
+      "imgURL": "https://demonuts.com/Demonuts/SampleImages/bou.png"
+    },
+    {
+      "id": "8",
+      "name": "Ana Ivanovic",
+      "country": "Serbia",
+      "city": "Belgrade",
+      "imgURL": "https://demonuts.com/Demonuts/SampleImages/iva.jpg"
+    }
+  ]
+}
